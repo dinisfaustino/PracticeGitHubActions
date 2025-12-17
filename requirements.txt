@@ -1,3 +1,5 @@
 Flask
 pytest
 pandas
+prometheus-client
+scikit-learn
